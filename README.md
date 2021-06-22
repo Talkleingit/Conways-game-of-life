@@ -71,7 +71,7 @@ To get a local copy up and running, follow these steps.
    
 
 <!-- The-design-architectural-pattern -->
-## The design architectural pattern
+## The architectural design pattern
  The architectural design pattern used in this project is the MVC design.
  ### 1. Model:
   The model is responsible for executing the business logic. In this project the model executes the needed functionality in order to verify that the rulesthat Conway stated 
@@ -82,10 +82,6 @@ To get a local copy up and running, follow these steps.
   The controller runs the evolution, it is responsible for setting the rate at which the data is calculated and it commands both the model and view to execute their purposed 
   at the needed time.
   
-
-<!-- UML -->
-## UML
-![ProjectUmlDiagram](https://user-images.githubusercontent.com/72923818/122425191-fa394280-cf97-11eb-84a5-14aa466c8ca7.jpg)
 
 
 
