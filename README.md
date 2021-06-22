@@ -17,12 +17,10 @@
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
     <li><a href="#The-design-architectural-pattern">The design architectural pattern</a></li>
-    <li><a href="#UML">UML</a></li>
     <li><a href="#Picture-of-the-application">Picture of the application</a></li>
   
   </ol>
