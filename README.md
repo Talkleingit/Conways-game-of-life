@@ -21,7 +21,7 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#The-design-architectural-pattern">The design architectural pattern</a></li>
+    <li><a href="#The-architectural-design-pattern">The architectural design pattern</a></li>
     <li><a href="#Picture-of-the-application">Picture of the application</a></li>
   
   </ol>
@@ -69,7 +69,7 @@ To get a local copy up and running, follow these steps.
    ```
    
 
-<!-- The-design-architectural-pattern -->
+<!-- The-architectural-design-pattern -->
 ## The architectural design pattern
  The architectural design pattern used in this project is the MVC design.
  ### 1. Model:
