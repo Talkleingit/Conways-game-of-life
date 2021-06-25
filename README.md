@@ -73,7 +73,7 @@ To get a local copy up and running, follow these steps.
 ## The architectural design pattern
  The architectural design pattern used in this project is the MVC design.
  ### 1. Model:
-  The model is responsible for executing the business logic. In this project the model executes the needed functionality in order to verify that the rulesthat Conway stated 
+  The model is responsible for executing the business logic. In this project the model executes the needed functionality in order to verify that the rules that Conway stated 
   actually occur, meaning each cell in the matrix will stay alive only if it has 2 or 3 living neighbours. A cell is revived only if it has 3 living cells around it.
  ### 2. View:
   The view is responsible to draw each cell using pygame. A living cell is drawn to in white and blue and a dead cell is drawn in black.
