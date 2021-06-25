@@ -78,7 +78,7 @@ To get a local copy up and running, follow these steps.
  ### 2. View:
   The view is responsible to draw each cell using pygame. A living cell is drawn to in white and blue and a dead cell is drawn in black.
   ### 3. Controller:
-  The controller runs the evolution, it is responsible for setting the rate at which the data is calculated and it commands both the model and view to execute their purposed 
+  The controller runs the evolution, it is responsible for setting the rate at which the data is calculated and it commands both the model and view to execute their tasks 
   at the needed time.
   
 
